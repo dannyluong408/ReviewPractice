@@ -1,0 +1,4 @@
+#ifndef ARRAY_QUESTIONS_H
+#define ARRAY_QUESTIONS_H
+
+#endif // ARRAY_QUESTIONS_H
