@@ -50,8 +50,8 @@ int return_kth_last_2_2(const linked *head, int k){
     if (!head) {
         return -1; //?? check if empty
     }
-    linked *slow = (linked*)head;
-    linked *fast = (linked*)head;
+    const linked *slow = head;
+    const linked *fast = head;
 
     for(int i = 0; i < k; i++){
         fast = fast->next;

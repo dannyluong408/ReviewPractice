@@ -9,10 +9,10 @@ struct tree{
 };
 
 
-bool route_between_nodes_4_1 (node start, node end, std::list adj[]){
-    //do dfs mark everything u come across and if start gets marked as visited then there is
-    //a route
-}
+//bool route_between_nodes_4_1 (node start, node end, std::list adj[]){
+//    //do dfs mark everything u come across and if start gets marked as visited then there is
+//    //a route
+//}
 
 
 void minimal_tree_4_2(int arr[]){
